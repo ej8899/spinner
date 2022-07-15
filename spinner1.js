@@ -1,3 +1,8 @@
+//
+// LHL - spinner1.js
+// https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m01w4/activities/388?journey_step=32&workbook=7
+//
+
 setTimeout(() => {
   process.stdout.write('\r|   ');
 }, 100);
